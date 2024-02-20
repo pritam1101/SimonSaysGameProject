@@ -3,5 +3,5 @@ This is a Simon Says game.
   - For Understanding the 
   - What is Simon says game
     URL:- https://youtu.be/EWJ5uYwQJGU
- - Link :- https://simson-game-project.netlify.app/
  - Click the above link and Play the Game.
+ - Link :- https://simson-game-project.netlify.app/
